@@ -1,4 +1,4 @@
-# Machine-Learning
+# Description
 Two machine learning problems solved in python. 
 First problem was calculating the expected CO2 emission for cars. 
 I solved it using sklearn's model for Linear regression aswell as my own that implements gradient descent.
